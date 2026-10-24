@@ -1,0 +1,15 @@
+{
+  "android": {
+    "version": "1.0.7",
+    "notes": "新增应用内检查更新：以后有新版本会自动提示（一天最多一次），也可在设置里手动检查。",
+    "url": "https://music.xgquan.com:8180/dl/JRoom-v1.0.7.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/v1.0.7/JRoom-v1.0.7.apk",
+    "code": 8
+  },
+  "windows": {
+    "version": "1.0.0",
+    "notes": "首发版本",
+    "url": "https://music.xgquan.com:8180/dl/JRoom-win-v1.0.0.exe",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
+  }
+}
