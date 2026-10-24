@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "1.0.8",
-    "notes": "修复：独立模式（未配置 NAS）试听无歌词——歌词改为三段链：https songinfoandlrc 主链路 + 酷我逐字降级 + 咪咕按歌手歌名兜底。",
-    "url": "https://music.xgquan.com:8180/dl/JRoom-v1.0.8.apk",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/v1.0.8/JRoom-v1.0.8.apk",
-    "code": 9
+    "version": "1.0.9",
+    "notes": "修复：独立模式（未配置 NAS）试听无歌词——歌词三段链（https 主链路 + 酷我逐字降级 + 咪咕兜底）。",
+    "url": "https://music.xgquan.com:8180/dl/JRoom-v1.0.9.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/v1.0.9/JRoom-v1.0.9.apk",
+    "code": 10
   },
   "windows": {
     "version": "1.0.0",
