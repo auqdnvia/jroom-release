@@ -8,7 +8,7 @@
   },
   "windows": {
     "version": "1.0.0",
-    "notes": "首发版本",
+    "notes": "首发正式版：含应用内检查更新，以后有新版本会自动提示（20 小时内最多一次），也可在设置里手动检查。",
     "url": "https://music.xgquan.com:8180/dl/JRoom-win-v1.0.0.exe",
     "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
   }
