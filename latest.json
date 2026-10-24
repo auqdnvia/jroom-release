@@ -11,5 +11,12 @@
     "notes": "首发正式版：含应用内检查更新，以后有新版本会自动提示（20 小时内最多一次），也可在设置里手动检查。",
     "url": "https://music.xgquan.com:8180/dl/JRoom-win-v1.0.0.exe",
     "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
+  },
+  "androidtv": {
+    "version": "1.0.0",
+    "notes": "电视版首发：对齐 Apple TV 全功能面——曲库/喜欢/家庭歌单(NAS云同步)、原唱/伴奏双音轨、Sonic换调、歌词舞台、待播队列、手机RTP无线麦(混响监听)、H5扫码点歌(在线入库)、音准打分(pitch曲线+YIN)、演唱录音(WAV+扫码取回)、NAS 20s自动重连、应用内在线更新",
+    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.0.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.0/JRoomTV-v1.0.0.apk",
+    "code": 1
   }
 }
