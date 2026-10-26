@@ -7,10 +7,10 @@
     "code": 10
   },
   "windows": {
-    "version": "1.0.0",
-    "notes": "首发正式版：含应用内检查更新，以后有新版本会自动提示（20 小时内最多一次），也可在设置里手动检查。",
-    "url": "https://music.xgquan.com:8180/dl/JRoom-win-v1.0.0.exe",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
+    "version": "1.1.0",
+    "notes": "新增歌手/专辑浏览；远程登录（内外网自动切换+外网认证，设置页填写）；性能与播放修复。",
+    "url": "https://music.xgquan.com:8180/dl/JRoom-win-v1.1.0.exe",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.1.0/JRoom-win-v1.1.0.exe"
   },
   "androidtv": {
     "version": "1.0.0",
