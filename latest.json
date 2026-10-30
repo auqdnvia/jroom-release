@@ -1,10 +1,10 @@
 {
   "android": {
-    "version": "1.1.0",
-    "notes": "新增歌手/专辑浏览：A–Z 歌手索引、专辑封面网格（专辑/合辑/碟映分类）、歌手详情与专辑详情、播放整张/播放全部；入口随家里曲库服务器能力自动显示，旧服务器自动隐藏。",
-    "url": "https://music.xgquan.com:8180/dl/JRoom-v1.1.0.apk",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/v1.1.0/JRoom-v1.1.0.apk",
-    "code": 11
+    "version": "1.2.0",
+    "notes": "新增抖音热歌榜 Top 10：每日榜单自动更新，点击即播——家里曲库有的直接播，线上歌走服务器试听。",
+    "url": "https://music.xgquan.com:8180/dl/JRoom-v1.2.0.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/v1.2.0/JRoom-v1.2.0.apk",
+    "code": 12
   },
   "windows": {
     "version": "1.0.0",
