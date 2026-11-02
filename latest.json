@@ -13,10 +13,10 @@
     "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
   },
   "androidtv": {
-    "version": "1.0.2",
-    "notes": "大屏UI全面重构：精简导航栏、遥控器高亮发光焦点、KTV原伴唱一键切与切歌重唱、拼音首字母找歌",
-    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.2.apk",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.2/JRoomTV-v1.0.2.apk",
-    "code": 3
+    "version": "1.0.3",
+    "notes": "沉浸歌词舞台5秒防误触自动隐藏、原伴唱切歌HUD居中提示、大屏模态在线更新弹窗",
+    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.3.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.3/JRoomTV-v1.0.3.apk",
+    "code": 4
   }
 }
