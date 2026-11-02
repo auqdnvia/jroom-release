@@ -13,10 +13,10 @@
     "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
   },
   "androidtv": {
-    "version": "1.0.1",
-    "notes": "修复弹窗半透明导致界面重叠错位，支持开机自动直连家庭NAS与遥控器返回键",
-    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.1.apk",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.1/JRoomTV-v1.0.1.apk",
-    "code": 2
+    "version": "1.0.2",
+    "notes": "大屏UI全面重构：精简导航栏、遥控器高亮发光焦点、KTV原伴唱一键切与切歌重唱、拼音首字母找歌",
+    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.2.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.2/JRoomTV-v1.0.2.apk",
+    "code": 3
   }
 }
