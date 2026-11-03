@@ -13,10 +13,10 @@
     "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
   },
   "androidtv": {
-    "version": "1.0.3",
-    "notes": "沉浸歌词舞台5秒防误触自动隐藏、原伴唱切歌HUD居中提示、大屏模态在线更新弹窗",
-    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.3.apk",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.3/JRoomTV-v1.0.3.apk",
-    "code": 4
+    "version": "1.0.4",
+    "notes": "支持跨设备喜欢的音乐全量双向共享，新增多源高清MV自动抓取(YouTube/酷我/抖音/B站)与【只看有MV】大屏影院级播放",
+    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.0.4.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.0.4/JRoomTV-v1.0.4.apk",
+    "code": 5
   }
 }
